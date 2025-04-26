@@ -39,7 +39,7 @@ A função executar_Iteracao começa verificando se animal ainda está vivo, se 
 
 Ao final da simulação, ou todas as árvores saudáveis na matriz que fosse possível para queimar naquela determinada configuração terão queimado ou o animal terá sido morto, e então as estatísticas finais do programa serão mostradas, mostrando quanto passos foram dados, quantas vezes o animal encontrou água e qual foi a sua última posição dentro da matriz, finalizando assim o programa.
 
-## 📈 Caso de testes
+## 📈 Caso de teste
 
 Para demonstrar um caso de teste da simulação. Usando a seguinte matriz:
 
