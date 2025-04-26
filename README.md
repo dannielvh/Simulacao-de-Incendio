@@ -162,4 +162,6 @@ make run
 
 ## 🖥️ Autor
 
+Danniel Vieira Holanda
+
 Linkedin: www.linkedin.com/in/danniel-vieira-81861a334
