@@ -11,7 +11,7 @@ Este trabalho, desenvolvido em C++, tem como implementação um simulador de pro
 
 ## 📖 Metodologia
 
-
+No início da simulação do incêndio, a primeira coisa a ser feita dentro do programa é a leitura da matriz que se encontra no arquivo "input.dat", recolhendo as informações mais importantes para a implementação comoo um todo, ou seja, as dimensões da matriz, e a posição do início do incêndio. Logo após a leitura do arquivo, o animal será colocado na primeira posição de valor 0 que encontrar, assim, colocando o animal numa posição segura.
 
 ## 🖥️ Autor
 
